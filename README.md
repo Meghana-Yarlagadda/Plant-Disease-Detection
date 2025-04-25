@@ -81,7 +81,7 @@ Example:
 display_random_image(train_loader, class_names)
 ```
 
-
+---
 ## 📦 Libraries Used
 
 This project utilizes the following Python libraries:
