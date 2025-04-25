@@ -81,6 +81,19 @@ Example:
 display_random_image(train_loader, class_names)
 ```
 
+
+## 📦 Libraries Used
+
+This project utilizes the following Python libraries:
+
+- **PyTorch** – For building and training the custom CNN  
+- **Torchvision** – For loading datasets and applying image transformations  
+- **NumPy** – For numerical operations  
+- **Matplotlib** – For data visualization  
+- **PIL (Pillow)** – For image loading and processing  
+- **os** – For file path handling  
+- **random** – For random selection of images  
+- **Google Colab** (optional) – For GPU-accelerated training in the cloud
 ---
 
 ## ▶️ How to Run
